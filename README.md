@@ -9,7 +9,7 @@ This project demonstrates practical skills in data cleaning, analysis, and dashb
 3.Build an interactive dashboard to visualize key insights
 
 ---
----
+
 ## Data Cleaning & Preparation
 
 The following data cleaning steps were performed:
@@ -20,7 +20,7 @@ The following data cleaning steps were performed:
 4.Standardized data formats where required
 
 ---
----
+
 ## Data Analysis
 
 Using Excel analysis features, the following insights were generated:
